@@ -18,6 +18,7 @@ app.use(
 
 app.use(
   express.urlencoded({
+    extended: true,
     limit: "16kb",
   })
 );
