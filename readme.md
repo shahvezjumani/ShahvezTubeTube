@@ -36,9 +36,9 @@ I'm thrilled to share my latest backend development project! This was an incredi
 └── README.md
 ```
 
+## 📸 Image
+![Final Project Image](https://github.com/shahvezjumani/ShahvezTubeTube/blob/main/projectImage.jpeg)
 ## 📸 Video
-### Click to view video
-[📽️ Watch the Final Demo Video on LinkedIn](https://www.linkedin.com/posts/shahvez-jumani_project-completed-full-backend-with-activity-7299728366683787264-jSd1?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnd2OYB1n0TfQB8ltq5Xlw3livNWiEtqT4)
 [📽️ Watch the Second Demo Video on LinkedIn](https://www.linkedin.com/posts/shahvez-jumani_nodejs-expressjs-mongodb-activity-7297855650796048385-aUlz?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnd2OYB1n0TfQB8ltq5Xlw3livNWiEtqT4)
 [📽️ Watch the First Demo Video on LinkedIn](https://www.linkedin.com/posts/shahvez-jumani_nodejs-expressjs-mongodb-activity-7296418893688954880-GeKP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnd2OYB1n0TfQB8ltq5Xlw3livNWiEtqT4)
 
